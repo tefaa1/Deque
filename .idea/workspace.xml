@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c650931-d7a0-420a-8bee-b74790c34a3e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kVw8xrCRRivBMGKuvUyWR55c0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayDeque.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GuitarHero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuitarHeroLite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListDeque.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListDequeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TTFAF.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayDequeTest.bigLLDequeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayDequeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListDequeTest.addIsEmptySizeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListDequeTest.addRemoveTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListDequeTest.bigLLDequeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListDequeTest.emptyNullReturnTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListDequeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListDequeTest.multipleParamTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListDequeTest.removeEmptyTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestGuitarString.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Deque&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="System.out.print(&quot;vd&quot;);" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedListDequeTest">
+    <configuration name="ArrayDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deque.ArrayDeque" />
+      <module name="proj1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deque.LinkedListDeque" />
+      <module name="proj1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TTFAF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gh2.TTFAF" />
+      <module name="proj1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gh2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDequeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="deque" />
+      <option name="MAIN_CLASS_NAME" value="deque.ArrayDequeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListDequeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="deque" />
+      <option name="MAIN_CLASS_NAME" value="deque.LinkedListDequeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListDequeTest" />
+        <item itemvalue="JUnit.ArrayDequeTest" />
+        <item itemvalue="Application.ArrayDeque" />
+        <item itemvalue="Application.LinkedListDeque" />
+        <item itemvalue="Application.TTFAF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c650931-d7a0-420a-8bee-b74790c34a3e" name="Changes" comment="" />
+      <created>1723381896099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723381896099</updated>
+      <workItem from="1723381897151" duration="325000" />
+      <workItem from="1723382300649" duration="132000" />
+      <workItem from="1723382501878" duration="268000" />
+      <workItem from="1723479909759" duration="345000" />
+      <workItem from="1723486941366" duration="22000" />
+      <workItem from="1723486996785" duration="806000" />
+      <workItem from="1723836861982" duration="111000" />
+      <workItem from="1723836989494" duration="320000" />
+      <workItem from="1723837322807" duration="97000" />
+      <workItem from="1723837435976" duration="1788000" />
+      <workItem from="1723892948919" duration="10248000" />
+      <workItem from="1723925748308" duration="2034000" />
+      <workItem from="1723995058904" duration="2927000" />
+      <workItem from="1724003324640" duration="480000" />
+      <workItem from="1724004237515" duration="66000" />
+      <workItem from="1724006187097" duration="5093000" />
+      <workItem from="1724067491875" duration="143000" />
+      <workItem from="1725448942219" duration="31000" />
+      <workItem from="1725449002988" duration="75000" />
+      <workItem from="1725451295529" duration="142000" />
+      <workItem from="1725451479015" duration="61000" />
+      <workItem from="1725451548849" duration="227000" />
+      <workItem from="1725451831946" duration="348000" />
+      <workItem from="1725452187958" duration="192000" />
+      <workItem from="1725452388431" duration="348000" />
+      <workItem from="1725458265669" duration="5419000" />
+      <workItem from="1725534951770" duration="622000" />
+      <workItem from="1725540111475" duration="43000" />
+      <workItem from="1725702428858" duration="9957000" />
+      <workItem from="1725717752229" duration="4420000" />
+      <workItem from="1725739100624" duration="3441000" />
+      <workItem from="1725794798896" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proj1$ArrayDeque.ic" NAME="ArrayDeque Coverage Results" MODIFIED="1725740624189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>deque.*</FILTER>
+    </SUITE>
+  </component>
+</project>
