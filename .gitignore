@@ -1,0 +1,19 @@
+# Build output
+target/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local course library (dependencies now come from Maven Central)
+library-sp21/
